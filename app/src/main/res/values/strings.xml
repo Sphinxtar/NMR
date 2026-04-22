@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NMR</string>
+    <string name="first_fragment_label">Tap Logo To Connect</string>
+    <string name="second_fragment_label">Results</string>
+    <string name="third_fragment_label">Print</string>
+    <string name="connected">Connected To Device</string>
+    <string name="success">Test Results Successfully Loaded</string>
+    <string name="connect">Connecting To Device Network</string>
+    <string name="netfail">Failed To Connect To Device</string>
+    <string name="netlost">Lost Connection To Device</string>
+    <string name="granted">All Permissions Granted!</string>
+    <string name="denied">PERMISSION DENIED!</string>
+    <string name="ssid">MRK_Labs_nMRK74_Server</string>
+    <string name="pass">FirstPassword</string>
+    <string name="columns">1</string>
+    <string name="quit">Exit</string>
+    <string name="refresh">Refresh Data</string>
+</resources>
